@@ -2,6 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+stylesheet: /assets/css/main.scss
 ---
 <!-- Replace project-url with the actual URL of your project,
 project-image-url with the URL of your project's image,
@@ -9,34 +10,16 @@ project-image-url with the URL of your project's image,
 and Project Title with the title of your project. -->
 <div class="portfolio">
   <div class="project">
-    <a href="project-url">
-      <img src="/assets/images/portfolio/project1.jpg" alt="Project Image">
-      <h3>Project Title 1</h3>
+    <a href="https://github.com/sbacky/DehydrationMedicalBot">
+      <img src="/assets/images/portfolio/MedicalDehydrationBot.png" alt="Dehydration Medical Bot">
+      <h3>Dehydration Medical Bot</h3>
     </a>
   </div>
   <!-- Repeat the above structure for each project -->
   <div class="project">
-    <a href="project-url">
-      <img src="/assets/images/portfolio/project2.jpg" alt="Project Image">
-      <h3>Project Title 2</h3>
-    </a>
-  </div>
-  <div class="project">
-    <a href="project-url">
-      <img src="/assets/images/portfolio/project3.jpg" alt="Project Image">
-      <h3>Project Title 3</h3>
-    </a>
-  </div>
-  <div class="project">
-    <a href="project-url">
-      <img src="/assets/images/portfolio/project4.jpg" alt="Project Image">
-      <h3>Project Title 4</h3>
-    </a>
-  </div>
-  <div class="project">
-    <a href="project-url">
-      <img src="/assets/images/portfolio/project5.jpg" alt="Project Image">
-      <h3>Project Title 5</h3>
+    <a href="https://github.com/sbacky/PhotoViewingApp">
+      <img src="/assets/images/portfolio/PhotoViewingApp.png" alt="Project Image">
+      <h3>PhotoViewingApp</h3>
     </a>
   </div>
 </div>
