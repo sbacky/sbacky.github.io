@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
-stylesheet: /assets/css/main.scss
+stylesheet: /assets/main.scss
 ---
 
 ## Neil Crum

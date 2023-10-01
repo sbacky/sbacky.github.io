@@ -1,35 +1,44 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+<!-- Bootstrap Footer -->
+<footer class="bg-light text-center text-lg-start">
+  <!-- Grid container -->
+  <div class="container p-4">
+    <!-- Grid row -->
+    <div class="row">
+      <!-- Grid column -->
+      <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+        <h5>{{ site.title | escape }}</h5>
+        <ul class="list-unstyled mb-0">
+          {%- if site.email -%}
+          <li>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          {%- endif -%}
         </ul>
       </div>
+      <!-- Grid column -->
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+      <!-- Grid column -->
+      <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
+        <div class="container d-flex flex-column gap-0 row-gap-3">
+          <a class="icon-link icon-link-hover me-auto" href="https://github.com/sbacky/" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-github fs-3"></i> <!-- Bootstrap Icon for GitHub -->
+            GitHub
+          </a>
+          <a class="icon-link icon-link-hover me-auto" href="https://www.linkedin.com/in/neil-crum-0317a6199/" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-linkedin fs-3"></i> <!-- Bootstrap Icon for LinkedIn -->
+            LinkedIn
+          </a>
+        </div>
       </div>
+      <!-- Grid column -->
 
-      <div class="footer-col footer-col-3">
+      <!-- Grid column -->
+      <div class="col-lg-4 col-md-6 mb-4 mb-md-0">
         <p>{{- site.description | escape -}}</p>
       </div>
+      <!-- Grid column -->
     </div>
-
+    <!-- Grid row -->
   </div>
-
+  <!-- Grid container -->
 </footer>

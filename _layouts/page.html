@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<article class="post">
+<div class="container"> <!-- Bootstrap container class -->
+  <article class="mt-5"> <!-- Added some margin-top for spacing -->
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+    <header>
+      <h1 class="display-4">{{ page.title | escape }}</h1> <!-- Bootstrap display-4 class for large headings -->
+    </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+    <div class="mt-4"> <!-- Added some margin-top for spacing -->
+      {{ content }}
+    </div>
 
-</article>
+  </article>
+</div>
