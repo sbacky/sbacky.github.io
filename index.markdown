@@ -81,7 +81,7 @@ title: Home
         <h2>About Me</h2>
         <p>Embarking on an exciting journey in software engineering, I initially honed my skills in Python to automate routine tasks. I further expanded my expertise by becoming a certified MuleSoft developer, specializing in integrating third-party applications with Salesforce. My technical arsenal now includes Java and SQL for backend server management.</p>
         <p>Outside of coding, I'm blessed with a supportive wife and a wonderful son. I'm passionate about basketball and video games. My favorite NBA team is the Suns, but I keep up with other teams as well. I am a PC gamer first and I play console as well. I dont have a favorite video game at the momeent but I enjoy playing video games with my wife and son.</p>
-        <button class="btn btn-primary mt-3">View My Portfolio</button>
+        <a class="btn btn-info mt-3" href="/portfolio/">View My Portfolio</a>
       </div>
     </div>
   </div>
