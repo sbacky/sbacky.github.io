@@ -21,18 +21,16 @@ title: Home
           <div class="ratio ratio-16x9">
             <img src="assets\images\album\00002-1898130606.png" class="img-fluid" alt="Image 1">
           </div>
-          <div class="carousel-caption">
-            <div class="container">
-              <h3 class="fs-1">Discover</h3>
-              <p>Your Captivating Image 1 Description</p>
-            </div>
+          <div class="carousel-caption bg-black opacity-75">
+            <h3 class="fs-1">Discover</h3>
+            <p>Your Captivating Image 1 Description</p>
           </div>
         </div>
         <div class="carousel-item">
           <div class="ratio ratio-16x9">
             <img src="assets\images\album\00019-4180582556.png" class="img-fluid" alt="Image 2">
           </div>
-          <div class="carousel-caption">
+          <div class="carousel-caption bg-black opacity-75">
             <h3 class="fs-1">Explore</h3>
             <p>Your Stunning Image 2 Description</p>
           </div>
@@ -41,7 +39,7 @@ title: Home
           <div class="ratio ratio-16x9">
             <img src="assets\images\album\00022-4180582555.png" class="img-fluid" alt="Image 3">
           </div>
-          <div class="carousel-caption">
+          <div class="carousel-caption bg-black opacity-75">
             <h3 class="fs-1">Experience</h3>
             <p>Your Mesmerizing Image 3 Description</p>
           </div>
@@ -80,7 +78,7 @@ title: Home
       <div class="col-md-6 d-flex flex-column justify-content-start">
         <h2>About Me</h2>
         <p>Embarking on an exciting journey in software engineering, I initially honed my skills in Python to automate routine tasks. I further expanded my expertise by becoming a certified MuleSoft developer, specializing in integrating third-party applications with Salesforce. My technical arsenal now includes Java and SQL for backend server management.</p>
-        <p>Outside of coding, I'm blessed with a supportive wife and a wonderful son. I'm passionate about basketball and video games. My favorite NBA team is the Suns, but I keep up with other teams as well. I am a PC gamer first and I play console as well. I dont have a favorite video game at the momeent but I enjoy playing video games with my wife and son.</p>
+        <p>Outside of coding, I'm blessed with a supportive wife and a wonderful son. I'm passionate about basketball, AI and video games. My favorite NBA team is the Suns, but I keep up with other teams as well. I enjoy exploring the boundaries of AI productivity and I like to generate AI images with Stable Diffusion. I am a PC gamer and I play on console as well. I dont have a favorite video game at the momeent but I enjoy playing video games with my wife and son.</p>
         <a class="btn btn-info mt-3" href="/portfolio/">View My Portfolio</a>
       </div>
     </div>
