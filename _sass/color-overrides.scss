@@ -1,0 +1,20 @@
+// _sass/custom/color-overrides.scss
+$purple: #6A0DAD;
+$pink: #FFC0CB;
+$turquoise: #40E0D0;
+$coral: #FF6F61;
+$lime-green: #32CD32;
+
+$primary: $purple;
+$secondary: $pink;
+$success: $lime-green;
+$info: $turquoise;
+$warning: $coral;
+
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning
+);
