@@ -10,11 +10,11 @@ title: Home
   <div class="container">
     <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
       <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active"></li>
-        <li data-bs-target="#heroCarousel" data-bs-slide-to="1"></li>
-        <li data-bs-target="#heroCarousel" data-bs-slide-to="2"></li>
-      </ol>
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#heroCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
       <!-- Slides -->
       <div class="carousel-inner">
         <div class="carousel-item active">
