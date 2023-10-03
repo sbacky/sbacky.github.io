@@ -72,7 +72,7 @@ title: Home
     <div class="row">
       <div class="col-md-6">
         <div class="ratio ratio-1x1">
-          <img src="{{ 'assets\images\album\ComfyUI_00007_.png' | relative_url }}" alt="White Tiger" class="rounded img-fluid">
+          <img src="assets\images\album\ComfyUI_00007_.png" alt="White Tiger" class="rounded img-fluid">
         </div>
       </div>
       <div class="col-md-6 d-flex flex-column justify-content-start">
