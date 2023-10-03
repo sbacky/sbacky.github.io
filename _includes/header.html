@@ -3,6 +3,10 @@
   <div class="container-sm">
     <!-- Logo -->
     <a class="navbar-brand fs-4" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <!-- Collapsable menu button / icon -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         {%- assign default_paths = site.pages | map: "path" -%}
@@ -20,23 +24,19 @@
           {%- endif -%}
         {%- endfor -%}
       </ul>
+      <div class="vr mx-3 d-none d-lg-block"></div>
+      <ul class="navbar-nav d-none d-lg-flex">
+        <li class="nav-item">
+          <a class="nav-link link-primary" href="https://github.com/sbacky/" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-github fs-3"></i> <!-- Bootstrap Icon for GitHub -->
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link link-primary" href="https://www.linkedin.com/in/neil-crum-0317a6199/" target="_blank" rel="noopener noreferrer">
+            <i class="bi bi-linkedin fs-3"></i> <!-- Bootstrap Icon for LinkedIn -->
+          </a>
+        </li>
+      </ul>
     </div>
-    <div class="vr mx-2"></div>
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link link-primary" href="https://github.com/sbacky/" target="_blank" rel="noopener noreferrer">
-          <i class="bi bi-github fs-3"></i> <!-- Bootstrap Icon for GitHub -->
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link link-primary" href="https://www.linkedin.com/in/neil-crum-0317a6199/" target="_blank" rel="noopener noreferrer">
-          <i class="bi bi-linkedin fs-3"></i> <!-- Bootstrap Icon for LinkedIn -->
-        </a>
-      </li>
-    </ul>
-    <!-- Collapsable menu button / icon -->
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
   </div>
 </nav>
