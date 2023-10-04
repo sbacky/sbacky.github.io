@@ -18,3 +18,21 @@ $theme-colors: (
     "info": $info,
     "warning": $warning
 );
+
+$navbar-hover-color: $primary;
+$navbar-hover-underline: underline;
+$navbar-active-color: $primary;
+
+.navbar-nav .nav-link {
+    &:hover {
+        color: $navbar-hover-color !important;
+        text-decoration: $navbar-hover-underline !important;
+        text-decoration-thickness: 3px; // Adjust thickness
+        text-underline-offset: 10px; // Adjust gap
+        font-weight: 600;
+    }
+    &.active {
+        color: $navbar-active-color !important;
+        font-weight: 600;
+    }
+};
