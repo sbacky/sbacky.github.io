@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="bg-light p-3 rounded"> <!-- Bootstrap classes for background and padding -->
+  <header class="bg-light p-3 px-5 rounded"> <!-- Bootstrap classes for background and padding -->
     <h1 class="post-title p-name display-4" itemprop="name headline">{{ page.title | escape }}</h1> <!-- Bootstrap display-4 class for large headings -->
     <p class="post-meta text-muted"> <!-- Bootstrap text-muted class for lighter text -->
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -16,12 +16,12 @@ layout: default
     </p>
   </header>
 
-  <div class="post-content e-content p-3" itemprop="articleBody"> <!-- Bootstrap padding class -->
+  <div class="post-content e-content p-3 px-5" itemprop="articleBody"> <!-- Bootstrap padding class -->
     {{ content }}
   </div>
 
   {%- if site.disqus.shortname -%}
-    <div class="p-3"> <!-- Bootstrap padding class -->
+    <div class="p-3 px-5"> <!-- Bootstrap padding class -->
       {%- include disqus_comments.html -%}
     </div>
   {%- endif -%}
