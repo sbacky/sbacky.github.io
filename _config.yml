@@ -38,11 +38,11 @@ collections:
 permalink: pretty
 
 # Build settings
-gems:
-  - jekyll-minima
-theme: minima
 plugins:
+  - jekyll-minima
   - jekyll-feed
+  - github-pages
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
