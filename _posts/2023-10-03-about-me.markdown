@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "About Me"
+date:   2023-10-03 00:00:00 -0700
+author: Neil Crum
+categories: personal
+---
+## Introduction
+
+Hi, and thank you for stopping by my blog. My name is Neil Crum and I am a freelance software developer. But I'm more than just what I do, I'm also a husband, a father, a son and most importantly, a person. I am married to my beautiful wife and we have one amazing son. When I'm not working I enjoy spending time with my family or indulging in one of my hobbies.
+
+## About the blog
+
+I use my blog as a place to creatively express myself. Whether that is through the images I generate, the software I share, or the posts I write, I do all of this for fun. I am not a professional blogger or writer so the most important part of this for me is my own enjoyment. The second I'm not having fun doing this, I will stop. Until then, I hope you enjoy consuming this content as much as I had making it.
+
+As an aside, most of my blog posts will be posted with the intention of being continually updated. I have no intention of only posting fully fleshed out blog posts or else I would never publish anything. I will update the date of the post when I update the blog post itself.
+
+## About me
+
+I have been happily married to my amazing wife, Devyn, since 2020. We have one beautiful 3 year old son, Ta'aroa, or Ro for short. I grew up in Southern California and moved to Phoenix, Arizona where I graduated from Arizona State University in 2019. 
