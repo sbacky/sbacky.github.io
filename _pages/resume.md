@@ -6,51 +6,47 @@ stylesheet: /assets/main.scss
 ---
 
 ## Neil Crum
-**Email:** nhc.crum@outlook.com | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/neil-crum-0317a6199/) | **GitHub:** [GitHub Profile](https://github.com/sbacky/)
+**Email:** [nhc.crum@outlook.com](mailto:nhc.crum@gmail.com) | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/neil-crum-0317a6199/) | **GitHub:** [GitHub Profile](https://github.com/sbacky/)
 
-### Summary
-Motivated and versatile professional with a strong background in customer service, IT support, and software development. Graduated with a Bachelors Degree in Interdisciplinary Arts and Sciences and achieved certifications in IT support and automation. Adept at multitasking, time management, and delivering effective solutions. Experienced in web development using Django and Java, with a proven ability to design and implement backend systems. Seeking opportunities to leverage skills in a dynamic and innovative environment.
+### <u>Summary</u>
+Versatile and driven software developer with a solid foundation in IT support, customer service, and software development, backed by a Bachelor's Degree in Interdisciplinary Arts and Sciences and certifications in IT support and automation. Proven ability in web development utilizing Django and Java, alongside designing and implementing robust backend systems. Eager to contribute to a forward-thinking and innovative team.
 
-### Education
+### <u>Education</u>
 #### Bachelor of Arts in Interdisciplinary Arts & Sciences
 **Arizona State University**, Tempe, AZ | 2019
 
-### Experience
-#### Java Developer
+### <u>Experience</u>
+#### Software Developer
 **Freelance**, Tempe, AZ | June 2023 - July 2023
-- Spearheaded backend development of a Social Media application and an Online Bookstore service using Java, Javalin, and Servlets, optimizing code structure for modularity and maintainability.
-- Executed a meticulous manual WordPress migration, upgrading plugins to PHP 8.2 compliance and enhancing site performance through database and object caching, SSL, and email configuration.
-- Designed and built a comprehensive website for a remodeling and contracting company, ensuring a modern, responsive design, robust backend setup, and fortified security infrastructure.
+- Led the backend development of diverse web applications using Java, Javalin, and Servlets, ensuring code modularity and maintainability.
+- Successfully performed a manual WordPress migration, updating plugins to PHP 8.2 compliance, and optimized site performance through database and object caching, SSL, and email configuration.
+- Conceptualized and developed a modern, responsive website for a remodeling and contracting firm, with a strong emphasis on security and efficient backend setup.
 
 #### Time & Expense Associate / Senior Time & Expense Associate - Payroll
 **Aston Carter**, Tempe, AZ | January 2021 - July 2023
-- Managed time and expense processes, ensuring accuracy and compliance with federal, state and company laws and policies.
-- Promoted to Senior Time & Expense Associate, responsible for training and mentoring junior associates.
-- Collaborated with cross-functional teams to streamline payroll procedures and enhance efficiency.
+- Oversaw time and expense processes, ensuring accuracy and compliance with various regulatory and company policies.
+- Promoted to a senior role, mentoring junior associates and contributing to streamlined payroll procedures through cross-functional collaboration.
 
 #### Customer Service Representative / Assistant Manager / Internal Auditor
 **U-Haul**, Mesa, AZ | July 2017 - April 2020
-- Progressed from Customer Service Representative to Assistant Manager and Internal Auditor roles.
-- Demonstrated exceptional customer service skills, resolving inquiries and ensuring customer satisfaction.
-- Conducted internal audits to identify process improvements and adherence to operational standards.
+- Progressed through roles, exhibiting exceptional customer service and operational auditing skills to identify process improvements and ensure adherence to operational standards.
 
-### Skills
+### <u>Skills</u>
 - Programming: Python, Java, HTML, CSS, JavaScript, SQL
 - Tools: Excel, VSCode, Eclipse
 - Soft Skills: Multi-tasking, Time Management, Problem Solving
 
-### Projects
-#### Dehydration Medical Bot
-Diagnose a users hydration with a quick questionnaire. Will be yes/no questions. Responses determine next question. Returns severe dehydration/some dehydration/no dehydration. Retrieve and add dehydration diagnoses. Display list of patients and diagnoses. Store new patients and diagnoses in database.
+### <u>Projects</u>
+#### Web Applications Development:
+- Developed a diagnostic Medical Bot in Python, utilizing Psycopg3+ for PostgreSQL connectivity, to provide dehydration diagnosis based on user responses.
+- Engineered a Photo Viewing Application using Django with a HTML and Bulma frontend, managing dependencies via Node and Webpack, and enabling CRUD operations through an admin console.
+- Augmented backend services for a bookstore and a web application, focusing on user-centric features and seamless data management, in collaboration with frontend developers for enhanced user interfaces.
 
-Fully functioning Deyhydration medical diagnosis bot with a complete backend in python. Uses Psycopg3+ to connect to a PostgreSQL database. Runs in the console.
+#### Website Development and Migration:
+- Executed a manual WordPress Migration, optimizing site performance and security through plugin updates and configurations.
+- Orchestrated a comprehensive Website Development Project for a remodeling and contracting company, from modern design conception to robust backend setup and security infrastructure implementation.
 
-#### PhotoViewingApp
-An application used to store and view photos in the web browser. Built in python using Django and implements SQLite for its database. Frontend built with HTML, styled with Bulma and uses Alpine and Htmx for Javascript. Frontend dependancies are managed using Node and Webpack manager.
-
-Photos can be viewed as a list or a grid. Select a photo to view it on its own page. CRUD capabilities implemented in ADMIN console
-
-### Certifications
+### <u>Certifications</u>
 
  Name                             |    Org     |     Date      
  :------------------------------- | :--------: | :-----------: 
