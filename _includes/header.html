@@ -14,11 +14,11 @@
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
-          <li class="nav-item">
+          <li class="nav-item px-2">
             {%- if page.title == my_page.title -%}
               <a class="nav-link active" aria-current="page" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- else -%}
-              <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              <a class="nav-link fw-semibold" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           </li>
           {%- endif -%}
@@ -26,12 +26,12 @@
       </ul>
       <div class="vr mx-3 d-none d-lg-block"></div>
       <ul class="navbar-nav d-none d-lg-flex">
-        <li class="nav-item">
+        <li class="nav-item px-2">
           <a class="nav-link link-primary" href="https://github.com/sbacky/" target="_blank" rel="noopener noreferrer">
             <i class="bi bi-github fs-3"></i> <!-- Bootstrap Icon for GitHub -->
           </a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item px-2">
           <a class="nav-link link-primary" href="https://www.linkedin.com/in/neil-crum-0317a6199/" target="_blank" rel="noopener noreferrer">
             <i class="bi bi-linkedin fs-3"></i> <!-- Bootstrap Icon for LinkedIn -->
           </a>
