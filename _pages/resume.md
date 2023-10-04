@@ -16,23 +16,17 @@ Motivated and versatile professional with a strong background in customer servic
 **Arizona State University**, Tempe, AZ | 2019
 
 ### Experience
-#### Time & Expense Associate / Senior Time & Expense Associate - Payroll
-**Aston Carter**, Tempe, AZ | January 2021 - July 2023
-- Managed time and expense processes, ensuring accuracy and compliance with company policies.
-- Promoted to Senior Time & Expense Associate, responsible for training and mentoring junior associates.
-- Collaborated with cross-functional teams to streamline payroll procedures and enhance efficiency.
-
 #### Java Developer
 **Freelance**, Tempe, AZ | June 2023 - July 2023
-- Developed backend of a Social Media application using Java, Javalin, and SQL database.
-- Implemented user registration, login, message creation, retrieval, and management functionalities.
-- Organized code into Data Access Objects (DAOs), Services, and Controllers to ensure modularity and maintainability.
+- Spearheaded backend development of a Social Media application and an Online Bookstore service using Java, Javalin, and Servlets, optimizing code structure for modularity and maintainability.
+- Executed a meticulous manual WordPress migration, upgrading plugins to PHP 8.2 compliance and enhancing site performance through database and object caching, SSL, and email configuration.
+- Designed and built a comprehensive website for a remodeling and contracting company, ensuring a modern, responsive design, robust backend setup, and fortified security infrastructure.
 
-#### Java Developer
-**Freelance**, Tempe, AZ | May 2023
-- Designed additional service for backend of an Online Bookstore using Java and Servlets, integrated with an SQL database.
-- Created features for managing book and book tag data and implemented CRUD operations.
-- Collaborated with frontend developers to deliver seamless user experiences.
+#### Time & Expense Associate / Senior Time & Expense Associate - Payroll
+**Aston Carter**, Tempe, AZ | January 2021 - July 2023
+- Managed time and expense processes, ensuring accuracy and compliance with federal, state and company laws and policies.
+- Promoted to Senior Time & Expense Associate, responsible for training and mentoring junior associates.
+- Collaborated with cross-functional teams to streamline payroll procedures and enhance efficiency.
 
 #### Customer Service Representative / Assistant Manager / Internal Auditor
 **U-Haul**, Mesa, AZ | July 2017 - April 2020
