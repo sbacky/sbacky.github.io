@@ -17,7 +17,7 @@ Versatile and driven software developer with a solid foundation in IT support, c
 
 ### <u>Experience</u>
 #### Software Developer
-**Freelance**, Tempe, AZ | June 2023 - July 2023
+**Freelance**, Tempe, AZ | May 2023 - October 2023
 - Led the backend development of diverse web applications using Java, Javalin, and Servlets, ensuring code modularity and maintainability.
 - Successfully performed a manual WordPress migration, updating plugins to PHP 8.2 compliance, and optimized site performance through database and object caching, SSL, and email configuration.
 - Conceptualized and developed a modern, responsive website for a remodeling and contracting firm, with a strong emphasis on security and efficient backend setup.
