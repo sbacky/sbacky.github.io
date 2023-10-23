@@ -9,7 +9,7 @@ stylesheet: /assets/main.scss
 **Email:** [nhc.crum@outlook.com](mailto:nhc.crum@gmail.com) | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/neil-crum-0317a6199/) | **GitHub:** [GitHub Profile](https://github.com/sbacky/)
 
 ### <u>Summary</u>
-Versatile and driven software developer with a solid foundation in IT support, customer service, and software development, backed by a Bachelor's Degree in Interdisciplinary Arts and Sciences and certifications in IT support and automation. Proven ability in web development utilizing Django and Java, alongside designing and implementing robust backend systems. Eager to contribute to a forward-thinking and innovative team.
+Adaptable and client-focused software developer with a diverse skill set that spans web development, automation, and IT support. Holds a Bachelor's Degree in Interdisciplinary Arts and Sciences, complemented by industry certifications. Over two years of freelance experience successfully managing end-to-end development projects, from client consultation to deployment and ongoing support. Proficient in Django, Java, and multiple front-end technologies, with a proven record of enhancing system performance and user experience. Eager to contribute technical expertise and problem-solving acumen to a dynamic, forward-thinking team.
 
 ### <u>Education</u>
 #### Bachelor of Arts in Interdisciplinary Arts & Sciences
@@ -17,15 +17,18 @@ Versatile and driven software developer with a solid foundation in IT support, c
 
 ### <u>Experience</u>
 #### Software Developer
-**Freelance**, Tempe, AZ | May 2023 - October 2023
-- Led the backend development of diverse web applications using Java, Javalin, and Servlets, ensuring code modularity and maintainability.
-- Successfully performed a manual WordPress migration, updating plugins to PHP 8.2 compliance, and optimized site performance through database and object caching, SSL, and email configuration.
-- Conceptualized and developed a modern, responsive website for a remodeling and contracting firm, with a strong emphasis on security and efficient backend setup.
+**Freelance**, Tempe, AZ | November 2021 - Present
+- Engineered and deployed dynamic, mobile-friendly websites for clients in logistics and e-commerce, leveraging Python Django, HTML, CSS, and JavaScript; managed and configured AWS EC2 hosting environments.
+- Enhanced user experience for e-commerce platforms by implementing AJAX-based features for product categorization and real-time search functionality.
+- Automated critical document processing for an accounting firm using Python, including seamless Word-to-PDF conversions and year-end tax document updates via regex pattern matching.
+- Conducted WordPress migrations, upgrading sites to PHP 8.2 and implementing performance optimizations through strategic caching techniques.
+- Architected and maintained robust backend infrastructure using Java and Javalin, with a focus on scalability, security, and performance optimization.
+
 
 #### Time & Expense Associate / Senior Time & Expense Associate - Payroll
 **Aston Carter**, Tempe, AZ | January 2021 - July 2023
-- Oversaw time and expense processes, ensuring accuracy and compliance with various regulatory and company policies.
-- Promoted to a senior role, mentoring junior associates and contributing to streamlined payroll procedures through cross-functional collaboration.
+- Managed time and expense processes, adhering to regulatory and company guidelines.
+- Mentored junior associates after being promoted to a senior role; led initiatives to streamline payroll procedures.
 
 #### Customer Service Representative / Assistant Manager / Internal Auditor
 **U-Haul**, Mesa, AZ | July 2017 - April 2020
@@ -37,14 +40,15 @@ Versatile and driven software developer with a solid foundation in IT support, c
 - Soft Skills: Multi-tasking, Time Management, Problem Solving
 
 ### <u>Projects</u>
-#### Web Applications Development:
-- Developed a diagnostic Medical Bot in Python, utilizing Psycopg3+ for PostgreSQL connectivity, to provide dehydration diagnosis based on user responses.
-- Engineered a Photo Viewing Application using Django with a HTML and Bulma frontend, managing dependencies via Node and Webpack, and enabling CRUD operations through an admin console.
-- Augmented backend services for a bookstore and a web application, focusing on user-centric features and seamless data management, in collaboration with frontend developers for enhanced user interfaces.
+#### Node-Based Tax Preparation Software (Ongoing)
+Designing and developing a web-based, node-driven tax preparation application aimed at individual tax returns. Utilizing Python Flask for the backend and HTML, CSS, and JavaScript for the frontend. Integrated LiteGraph JS for a node-based interface. Implemented dynamic node loading from the backend to the frontend for scalable custom functionality. Established real-time updates through Socket.IO, enhancing the responsiveness of the system. Currently working on refining node execution order and additional features to support more tax forms. Aspiring to attain Modern e-Filing certification from the IRS.
 
-#### Website Development and Migration:
-- Executed a manual WordPress Migration, optimizing site performance and security through plugin updates and configurations.
-- Orchestrated a comprehensive Website Development Project for a remodeling and contracting company, from modern design conception to robust backend setup and security infrastructure implementation.
+#### Dehydration Medical Bot
+Engineered a Python-based diagnostic bot that utilizes Psycopg3+ for seamless PostgreSQL integration. Facilitates user-driven dehydration diagnosis through a quick questionnaire and algorithmic evaluation. Enables patient registration and data storage for new patients while offering easy data retrieval for returning patients. Allows the addition of new diagnosis for existing patients and maintains a comprehensive diagnosis history for individual patients.
+
+#### PhotoViewingApp
+Engineered a web-based photo viewing application using Django, with a frontend crafted using HTML, Bulma, and managed dependencies via Node and Webpack, providing CRUD capabilities through an admin console.
+
 
 ### <u>Certifications</u>
 
