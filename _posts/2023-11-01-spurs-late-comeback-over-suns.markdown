@@ -8,9 +8,9 @@ categories: NBA, Suns
 
 ## Game Summary
 
-Date: Tuesday, October 31, 2023
-Final Score: **Spurs 115 - 114 Suns**
-Record: 2-2
+<p>Date: Tuesday, October 31, 2023</p>
+<p>Final Score: <b>Spurs 115 - 114 Suns</b></p>
+<p>Record: 2-2</p>
 
 If you didn't catch the game last night, it came down to the wire. Devin Booker and Bradley Beal were out of action which didnt seem to be a problem in the first half. The first half looked like the Suns were going to blow out the Spurs, opening up a 20+ point lead. But to the Spurs credit, they got themselves back in the game, all starting with a run about half way throught the 3rd quarter.
 
