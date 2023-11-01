@@ -12,7 +12,7 @@ categories: NBA, Suns
 <p>Final Score: <b>Spurs 115 - 114 Suns</b></p>
 <p>Record: 2-2</p>
 
-If you didn't catch the game last night, it came down to the wire. Devin Booker and Bradley Beal were out of action which didnt seem to be a problem in the first half. The first half looked like the Suns were going to blow out the Spurs, opening up a 20+ point lead. But to the Spurs credit, they got themselves back in the game, all starting with a run about half way throught the 3rd quarter.
+If you didn't catch the game last night, it came down to the wire. Devin Booker and Bradley Beal were out of action which didnt seem to be a problem in the first half. It looked like the Suns were going to blow out the Spurs, opening up an 18 point lead going into halftime. But to the Spurs credit, they got themselves back in the game, all starting with a run about half way throught the 3rd quarter.
 
 The Spurs were able to capitalize on sloppy turnovers and the Suns inability to make a basket and clawed there way to within 7. We then stretched it back out to 15 or so but at that point, it was to late, the Spurs were already feeling good. It was more of the same in the 4th quarter, with us unable to make a shot and continuously committing silly turnovers. This culminated in the final seconds of the game where the spurs pull within 1 with just under 7 seconds remaining. Instead of calling a timeout to advance the ball (we had 1 remaining), we opt for inbounding it to Kevin Durant trapped between two spurs players, the baseline and the sideline. Durant gets ripped and the spurs have an easy layup to put them ahead by 1 with just under 2 seconds remaining. 
 
