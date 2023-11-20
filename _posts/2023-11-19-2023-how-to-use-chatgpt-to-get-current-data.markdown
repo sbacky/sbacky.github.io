@@ -6,7 +6,7 @@ author: Neil Crum
 categories: ChatGPT
 ---
 
-Is ChatGPT truly limited in finding current Black Friday deals? In a recent Mashable article by Christina Buff titled ["Dont bother using ChatGPT to find Black Friday deals this season - here's why"](mashable-article), she asserts that ChatGPT is unable to find Black Friday deals because of its inability for "real-time internet access". While her perspective on ChatGPT is not uncommon, the recent updates to ChatGPT and integration with Bing now allow ChatGPT to surf the internet in real time. However, this couldnt be more false with the recent updates to ChatGPT 4, the rollout of ChatGPT wth Bing, or some creative ingenuity with ChatGPT 3.5 and let here's why.
+Is ChatGPT truly limited in finding current Black Friday deals? In a recent Mashable article by Christina Buff titled ["Dont bother using ChatGPT to find Black Friday deals this season - here's why"](mashable-article), she asserts that ChatGPT is unable to find Black Friday deals because of its inability for "real-time internet access". While her perspective on ChatGPT is not uncommon, the recent updates to ChatGPT, specifically to version 4 and it's integration with Bing now allow ChatGPT to access the internet for currnt data. In this article, we will look at how to find Black Firday deals with the enhanced capabilities of ChatGPT 4, the integration of ChatGPT 4 wth Bing Chat, and using ChatGPT 3.5 and some creative ingenuity with to provide real time internet data.
 
 ## ChatGPT 4
 
@@ -209,157 +209,157 @@ ChatGPT 3.5 response:
     </thead>
     <tbody>
       <tr>
-        <th scope="row">Eufy BoostIQ RoboVac 11S (Slim), Robot Vacuum Cleaner</th>
+        <td>Eufy BoostIQ RoboVac 11S (Slim), Robot Vacuum Cleaner</td>
         <td>1300Pa</td>
         <td>No</td>
         <td>No</td>
         <td>Yes</td>
         <td>Black</td>
-        <td>$75.99</td>
+        <th scope="row">$75.99</th>
         <td>eBay - goodbyeretail</td>
         <td>Free delivery</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">iLife A80 Max Robot Vacuum</th>
+        <td>iLife A80 Max Robot Vacuum</td>
         <td>2K</td>
         <td>Yes</td>
         <td>No</td>
         <td>Yes</td>
         <td>Blue</td>
-        <td>$99.99</td>
+        <th scope="row">$99.99</th>
         <td>Groupon.com</td>
         <td>Free delivery</td>
         <td>4.1/5 (2.4K store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Yeedi VAC 2 Pro with Self Empty Station Robot Vacuum and Mop</th>
+        <td>Yeedi VAC 2 Pro with Self Empty Station Robot Vacuum and Mop</td>
         <td>Not specified</td>
         <td>Not specified</td>
         <td>Not specified</td>
         <td>Yes</td>
         <td>White</td>
-        <td>$199.98</td>
+        <th scope="row">$199.98</th>
         <td>eBay</td>
         <td>Free delivery by Nov 30 & Free 30-day returns</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">Shark ION Robot Vacuum R85 (RV850)</th>
+        <td">Shark ION Robot Vacuum R85 (RV850)</td>
         <td>1000Pa</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Black</td>
-        <td>$199.99</td>
+        <th scope="row">$199.99</th>
         <td>Walmart</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">iRobot Wi-Fi Connected Roomba J7 Robot Vacuum</th>
+        <td>iRobot Wi-Fi Connected Roomba J7 Robot Vacuum</td>
         <td>Not specified</td>
         <td>Yes</td>
         <td>No</td>
         <td>Not specified</td>
         <td>Not specified</td>
-        <td>$190.00</td>
+        <th scope="row">$190.00</th>
         <td>ANM Liquidation</td>
         <td>Free delivery by Thu, Nov 30</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">Kalorik HUVI Robot Vacuum R1 + Self-Emptying Station Bundle</th>
+        <td>Kalorik HUVI Robot Vacuum R1 + Self-Emptying Station Bundle</td>
         <td>Not specified</td>
         <td>Not specified</td>
         <td>Not specified</td>
         <td>Yes</td>
         <td>Not specified</td>
-        <td>$549.99</td>
+        <th scope="row">$549.99</th>
         <td>Kalorik</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.0/5 (265 store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Tineco Pure ONE S12 Smart Cordless Stick Vacuum Cleaner</th>
+        <td>Tineco Pure ONE S12 Smart Cordless Stick Vacuum Cleaner</td>
         <td>150W</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Moonstone</td>
-        <td>$479.00</td>
+        <th scope="row">$479.00</th>
         <td>Amazon.com</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.6/5 (2.4K store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Bissell Pet Hair Eraser Turbo Plus Lightweight Upright Vacuum Cleaner</th>
+        <td>Bissell Pet Hair Eraser Turbo Plus Lightweight Upright Vacuum Cleaner</td>
         <td>Not specified</td>
         <td>No</td>
         <td>No</td>
         <td>No</td>
         <td>Purple</td>
-        <td>$229.99</td>
+        <th scope="row">$229.99</th>
         <td>Amazon.com</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.5/5 (5.6K store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Shark IQ Robot Vacuum AV993</th>
+        <td>Shark IQ Robot Vacuum AV993</td>
         <td>Not specified</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Black</td>
-        <td>$399.99</td>
+        <th scope="row">$399.99</th>
         <td>Walmart</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">Eufy by Anker, RoboVac X8 Hybrid, Robot Vacuum Cleaner</th>
+        <td>Eufy by Anker, RoboVac X8 Hybrid, Robot Vacuum Cleaner</td>
         <td>2000Pa</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Black</td>
-        <td>$499.99</td>
+        <th scope="row">$499.99</th>
         <td>Amazon.com</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.7/5 (3.6K store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Dyson V15 Detect Slim Cordless Stick Vacuum Cleaner</th>
+        <td>Dyson V15 Detect Slim Cordless Stick Vacuum Cleaner</td>
         <td>Not specified</td>
         <td>No</td>
         <td>No</td>
         <td>Yes</td>
         <td>Blue</td>
-        <td>$499.99</td>
+        <th scope="row">$499.99</th>
         <td>Dyson</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>-</td>
       </tr>
       <tr>
-        <th scope="row">Samsung POWERbot R7040 Robot Vacuum</th>
+        <td>Samsung POWERbot R7040 Robot Vacuum</td>
         <td>20W</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Neutral Grey</td>
-        <td>$239.99</td>
+        <th scope="row">$239.99</th>
         <td>Amazon.com</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.3/5 (5.9K store reviews)</td>
       </tr>
       <tr>
-        <th scope="row">Roborock S7 Robot Vacuum Cleaner with Sonic Mopping</th>
+        <td>Roborock S7 Robot Vacuum Cleaner with Sonic Mopping</td>
         <td>2500Pa</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Yes</td>
         <td>Black</td>
-        <td>$649.00</td>
+        <th scope="row">$649.00</th>
         <td>Amazon.com</td>
         <td>Free delivery by Mon, Dec 4</td>
         <td>4.6/5 (2.2K store reviews)</td>
