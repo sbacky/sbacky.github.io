@@ -245,7 +245,7 @@ ChatGPT 3.5 response:
         <td>-</td>
       </tr>
       <tr>
-        <td">Shark ION Robot Vacuum R85 (RV850)</td>
+        <td>Shark ION Robot Vacuum R85 (RV850)</td>
         <td>1000Pa</td>
         <td>Yes</td>
         <td>Yes</td>
