@@ -6,7 +6,7 @@ author: Neil Crum
 categories: ChatGPT
 ---
 
-Is ChatGPT truly limited in finding current Black Friday deals? In a recent Mashable article by Christina Buff titled ["Dont bother using ChatGPT to find Black Friday deals this season - here's why"](mashable-article), she asserts that ChatGPT is unable to find Black Friday deals because of its inability for "real-time internet access". While her perspective on ChatGPT is not uncommon, the recent updates to ChatGPT, specifically to version 4 and it's integration with Bing now allow ChatGPT to access the internet for currnt data. In this article, we will look at how to find Black Firday deals with the enhanced capabilities of ChatGPT 4, the integration of ChatGPT 4 wth Bing Chat, and using ChatGPT 3.5 and some creative ingenuity with to provide real time internet data.
+Is ChatGPT truly limited in finding current Black Friday deals? In a recent Mashable article by Christina Buff titled ["Dont bother using ChatGPT to find Black Friday deals this season - here's why"](mashable-article), she asserts that ChatGPT is unable to find Black Friday deals because of its inability for "real-time internet access". While her perspective on ChatGPT is not uncommon, the recent updates to ChatGPT, specifically to version 4 and its integration with Bing now allow ChatGPT to access the internet for current data. In this article, we will look at how to find Black Friday deals with the enhanced capabilities of ChatGPT 4, the integration of ChatGPT 4 with Bing Chat, and using ChatGPT 3.5 and some creative ingenuity with to provide real time internet data.
 
 ## ChatGPT 4
 
@@ -14,19 +14,19 @@ ChatGPT 4 CAN surf the web in real-time, but the real problem lies in her prompt
 
 ### Prompt Comparison
 
-To compare, I engineered a prompt similar to how I use ChatGPT 4 everyday. Let's take a look at her prompt versus my prompt.
+To compare, I engineered a prompt like how I use ChatGPT 4 daily. Let's look at her prompt versus my prompt.
 
 Her prompt: "What robot vacuums will go on sale for Black Friday?"
 
 My prompt: "Please search the web for robot vacuums that will go on sale for Black Friday. I want a detailed report on each vacuum. I want the list ordered by price from lowest to highest. If the price is the same, please organize by rating from highest to lowest.
 
-Her prompt just scratches the surface on what is possible whith ChatGPT. She should probably further clarify in her prompt what specific details are important to her. She should additional specify how ChatGPT formats the results. I also find it helpful to provide ChatGPT with as much context about your use case as possible. If availabble, she can use 'Custom Instructions' to provide detailed background information for ChatGPT to reference.
+Her prompt just scratches the surface on what is possible with ChatGPT. She should probably further clarify in her prompt what specific details are important to her. She should additional specify how ChatGPT formats the results. I also find it helpful to provide ChatGPT with as much context about your use case as possible. If available, she can use 'Custom Instructions' to provide detailed background information for ChatGPT to reference.
 
 This would significantly improve her prompt and probably cut out a lot of the leg work she is normally required to do. Of course, I only dipped a toe into what ChatGPT can do and if you would like more information on prompting, please send me an email.
 
 ### Side note
 
-Before we continue, it is important to note that she is probably using ChatGPT 3.5 and not 4. I came to this conclusion based on the responses she was getting to her questions. This might be for various reasons, but is really besides the point.
+Before we continue, it is important to note that she is probably using ChatGPT 3.5 and not 4. I came to this conclusion based on the responses she was getting to her questions. This might be for various reasons but is really beside the point.
 
 ### Response Comparison
 
@@ -185,9 +185,9 @@ Please note that these deals are subject to change and may vary by location. I h
 
 ## CTRL + c, CTRL + v, ChatGPT 3
 
-This final method is for anyone who doesnt want to or doesnt have access to the previously mentioned methods. ChatGPT 3.5 might not be able to surf the web in real time, but YOU can! Search in your favorite web browser "robot vacuum black friday deals 2023" or whatever it is you're searching for, then provide the search results to ChatGPT 3.5 to analyze and query your results.
+This final method is for anyone who doesn’t want to or doesn’t have access to the previously mentioned methods. ChatGPT 3.5 might not be able to surf the web in real time, but YOU can! Search in your favorite web browser "robot vacuum black Friday deals 2023" or whatever it is you're searching for, then provide the search results to ChatGPT 3.5 to analyze and query your results.
 
-You might need to truncate your search results and provide them in chunks. ChatGPT 3.5 has a limit to how long a question can be. Therefore, if your search results goes beyond that limit, you can break your esults up into smaller chunks and ask ChatGPT 3.5 to analyze each chunk. I had to break my search results up into 2 chunks to fit within the limit.
+You might need to truncate your search results and provide them in chunks. ChatGPT 3.5 has a limit to how long a question can be. Therefore, if your search results goes beyond that limit, you can break your results up into smaller chunks and ask ChatGPT 3.5 to analyze each chunk. I had to break my search results up into 2 chunks to fit within the limit.
 
 ChatGPT 3.5 response:
 
@@ -370,7 +370,7 @@ ChatGPT 3.5 response:
 
 ## Conclusion
 
-It is clear that ChatGPT can surf the web in real time to find deals for Black Friday. And in additiona to surfing the web, can also provide detailed analysis and user friendly formatted data all in a single prompt. I have outlined three different methods that can accomplish this, by using ChatGPT 4 which comes with the ability to surf the web in real time, by using Bing Chat which uses ChatGPT 4 and can surf the web in real time, and by using ChatGPT 3.5 and providing GPT with real time web browsing results.
+It is clear that ChatGPT can surf the web in real time to find deals for Black Friday. And in addition to surfing the web, can also provide detailed analysis and user-friendly formatted data all in a single prompt. I have outlined three different methods that can accomplish this, by using ChatGPT 4 which comes with the ability to surf the web in real time, by using Bing Chat which uses ChatGPT 4 and can surf the web in real time, and by using ChatGPT 3.5 and providing GPT with real time web browsing results.
 
 [mashable-article]: https://mashable.com/article/chatgpt-black-friday-deals
 [bing-search]: https://bing.com/search?q=robot+vacuums+black+friday+deals.
