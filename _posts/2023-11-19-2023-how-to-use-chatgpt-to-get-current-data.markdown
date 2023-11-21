@@ -37,72 +37,72 @@ Christina ChatGPT: "I'm sorry, but I don't have real-time information, including
 ChatGPT 4 response: "I have found some Black Friday deals for robot vacuums, although I was unable to complete a comprehensive list ordered by price and rating as per your request. Here's the information I gathered:
 
 <div class="table-responsive">
-    <table class="table table-striped align-middle">
-        <thead>
-            <tr>
-                <th scope="col">Vacuum</th>
-                <th scope="col">Price</th>
-                <th scope="col">Source</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th scope="row">Huije 803 Robot Vacuum</th>
-                <td>$110 (Originally $350)</td>
-                <td>Digital Trends</td>
-            </tr>
-            <tr>
-                <th scope="row">OKP K4 Robot Vacuum</th>
-                <td>$140 (Save $190)</td>
-                <td>ZDNET</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark ION RV763 Robot Vacuum</th>
-                <td>$150 (Originally $250)</td>
-                <td>Digital Trends</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba 694 Wi-Fi Robot Vacuum</th>
-                <td>$179.99 (Originally $274.99)</td>
-                <td>BlackFriday.com</td>
-            </tr>
-            <tr>
-                <th scope="row">Eufy RoboVac L50 Robot Vacuum</th>
-                <td>$198</td>
-                <td>CNET</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark Matrix Robot Vacuum</th>
-                <td>$199 (Originally $299.99)</td>
-                <td>BlackFriday.com</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark AI Ultra 2-in-1 Robot Vacuum & Mop</th>
-                <td>$249.99 (Originally $449.99)</td>
-                <td>BlackFriday.com</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark IQ Robot Vacuum AV970</th>
-                <td>$330 (Save $70)</td>
-                <td>ZDNET</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba Wi-Fi Connected Self-Emptying Robot Vacuum</th>
-                <td>$349 (Originally $599.99)</td>
-                <td>BlackFriday.com</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba i7+ (7550)</th>
-                <td>$374.99 (Originally $899.99)</td>
-                <td>Best Buy via BlackFriday.com</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba s9+</th>
-                <td>$600 (Save $400)</td>
-                <td>ZDNET</td>
-            </tr>
-        </tbody>
-    </table>
+  <table class="table table-striped align-middle">
+    <thead>
+      <tr>
+        <th scope="col">Vacuum</th>
+        <th scope="col">Price</th>
+        <th scope="col">Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Huije 803 Robot Vacuum</th>
+        <td>$110 (Originally $350)</td>
+        <td>Digital Trends</td>
+      </tr>
+      <tr>
+        <th scope="row">OKP K4 Robot Vacuum</th>
+        <td>$140 (Save $190)</td>
+        <td>ZDNET</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark ION RV763 Robot Vacuum</th>
+        <td>$150 (Originally $250)</td>
+        <td>Digital Trends</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba 694 Wi-Fi Robot Vacuum</th>
+        <td>$179.99 (Originally $274.99)</td>
+        <td>BlackFriday.com</td>
+      </tr>
+      <tr>
+        <th scope="row">Eufy RoboVac L50 Robot Vacuum</th>
+        <td>$198</td>
+        <td>CNET</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark Matrix Robot Vacuum</th>
+        <td>$199 (Originally $299.99)</td>
+        <td>BlackFriday.com</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark AI Ultra 2-in-1 Robot Vacuum & Mop</th>
+        <td>$249.99 (Originally $449.99)</td>
+        <td>BlackFriday.com</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark IQ Robot Vacuum AV970</th>
+        <td>$330 (Save $70)</td>
+        <td>ZDNET</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba Wi-Fi Connected Self-Emptying Robot Vacuum</th>
+        <td>$349 (Originally $599.99)</td>
+        <td>BlackFriday.com</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba i7+ (7550)</th>
+        <td>$374.99 (Originally $899.99)</td>
+        <td>Best Buy via BlackFriday.com</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba s9+</th>
+        <td>$600 (Save $400)</td>
+        <td>ZDNET</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 Please note that I wasn't able to verify the ratings for these vacuums, and some additional vacuums may also be available on sale for Black Friday. The prices and availability are subject to change."
@@ -110,56 +110,56 @@ Please note that I wasn't able to verify the ratings for these vacuums, and some
 ChatGPT 4 w/ Christina's question: "Several robot vacuum models are going on sale for Black Friday 2023. Here are some of the deals:
 
 <div class="table-responsive">
-    <table class="table table-striped align-middle">
-        <thead>
-            <tr>
-                <th scope="col">Vacuum</th>
-                <th scope="col">Details</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th scope="row">iRobot Roomba 694 Wi-Fi Robot Vacuum</th>
-                <td>Available on Amazon for $179.99, down from $274.99</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba Wi-Fi Connected Self-Emptying Robot Vacuum</th>
-                <td>Walmart is offering this model at $349.00, which is $250 off its original price of $599.99</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba s9+</th>
-                <td>Priced at $600, which is a $400 savings​</td>
-            </tr>
-            <tr>
-                <th scope="row">OKP K4 Robot Vacuum</th>
-                <td>This model is available for $140, saving you $190​</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark IQ Robot Vacuum AV970</th>
-                <td>On sale for $330, a $70 discount​</td>
-            </tr>
-            <tr>
-                <th scope="row">iRobot Roomba i7+ (7550)</th>
-                <td>Best Buy has it at 58% off, priced at $374.99, down from the original $899.99</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark AI Ultra 2-in-1 Robot Vacuum & Mop</th>
-                <td>Available at Best Buy for $249.99, which is 44% off the original price of $449.99</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark Matrix Robot Vacuum</th>
-                <td>Walmart is offering this at $199, a 33% discount from its original price of $299.99</td>
-            </tr>
-            <tr>
-                <th scope="row">Eufy RoboVac L50 Robot Vacuum</th>
-                <td> On sale at Walmart for $198, saving $301</td>
-            </tr>
-            <tr>
-                <th scope="row">Shark RV2310AE Matrix Self-Emptying Robot Vacuum</th>
-                <td>This model features 360-degree LiDAR navigation and is offered with a 20% discount</td>
-            </tr>
-        </tbody>
-    </table>
+  <table class="table table-striped align-middle">
+    <thead>
+      <tr>
+        <th scope="col">Vacuum</th>
+        <th scope="col">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">iRobot Roomba 694 Wi-Fi Robot Vacuum</th>
+        <td>Available on Amazon for $179.99, down from $274.99</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba Wi-Fi Connected Self-Emptying Robot Vacuum</th>
+        <td>Walmart is offering this model at $349.00, which is $250 off its original price of $599.99</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba s9+</th>
+        <td>Priced at $600, which is a $400 savings​</td>
+      </tr>
+      <tr>
+        <th scope="row">OKP K4 Robot Vacuum</th>
+        <td>This model is available for $140, saving you $190​</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark IQ Robot Vacuum AV970</th>
+        <td>On sale for $330, a $70 discount​</td>
+      </tr>
+      <tr>
+        <th scope="row">iRobot Roomba i7+ (7550)</th>
+        <td>Best Buy has it at 58% off, priced at $374.99, down from the original $899.99</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark AI Ultra 2-in-1 Robot Vacuum & Mop</th>
+        <td>Available at Best Buy for $249.99, which is 44% off the original price of $449.99</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark Matrix Robot Vacuum</th>
+        <td>Walmart is offering this at $199, a 33% discount from its original price of $299.99</td>
+      </tr>
+      <tr>
+        <th scope="row">Eufy RoboVac L50 Robot Vacuum</th>
+        <td> On sale at Walmart for $198, saving $301</td>
+      </tr>
+      <tr>
+        <th scope="row">Shark RV2310AE Matrix Self-Emptying Robot Vacuum</th>
+        <td>This model features 360-degree LiDAR navigation and is offered with a 20% discount</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 These deals provide a range of options in terms of features and price points, catering to different preferences and budgets."
