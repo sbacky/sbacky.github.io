@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 
 Project-Requirements.txt
+_config.json
+
+node_modules
