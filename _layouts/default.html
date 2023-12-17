@@ -14,11 +14,16 @@
     {%- include footer.html -%}
 
     <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/2.0/auth0-spa-js.production.js"></script>
+    <script src="{{ '/assets/js/auth0.js' | relative_url }}"></script>
     {%- if page.title == 'Home' -%}
       <script src="{{ '/assets/js/home.js' | relative_url }}"></script>
     {%- endif -%}
     {%- if page.title == 'Album' -%}
       <script src="{{ '/assets/js/album.js' | relative_url }}"></script>
+    {%- endif -%}
+    {%- if page.categories contains 'Wishlist' -%}
+      <script src="{{ 'assets/js/wishlist.js' | relative_url }}"></script>
     {%- endif -%}
 
   </body>
