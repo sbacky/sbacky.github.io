@@ -1,0 +1,16 @@
+# _data/services.yml
+- name: Warehousing and Distribution
+  caption: Service 1
+  description: Secure, scalable warehousing solutions paired with a strategic distribution network to enhance your supply chain efficiency. Our services ensure your products are stored safely and delivered on time.
+  image: \assets\images\shipping\eco-friendly-1.png
+  id: warehousingAndDistribution
+- name: Freight Forwarding
+  caption: Service 2
+  description: Global freight forwarding services that connect your business to the world. From air to ocean freight, we provide reliable, cost-effective solutions tailored to meet your shipping requirements.
+  image: \assets\images\shipping\global-network-1.png
+  id: freightForwarding
+- name: Supply Chain Management
+  caption: Service 3
+  description: Advanced supply chain management services designed to optimize your operations. Our experts use the latest technology to streamline your processes, reduce costs, and improve efficiency.
+  image: \assets\images\shipping\supply-chain-management-2.png
+  id: supplyChainManagement

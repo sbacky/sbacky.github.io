@@ -1,0 +1,9 @@
+# _data/faq.yml
+- question: What is third-party logistics?
+  answer: Third-party logistics (3PL) refers to outsourcing your company's logistics and supply chain management to a specialized provider. We offer comprehensive services including warehousing, transportation, and supply chain management to streamline your operations.
+  headingId: threePLDefinitionHeading
+  collapseId: threePLDefinitionCollapse
+- question: How can a 3PL company benefit my business?
+  answer: Partnering with a 3PL company like ours can significantly enhance your operational efficiency, reduce costs, and allow you to focus on core business activities. Our expertise in logistics and supply chain management ensures your products are delivered on time and at a reduced cost.
+  headingId: threePLBenifitsHeading
+  collapseId: threePLBenifitsCollapse

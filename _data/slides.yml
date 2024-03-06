@@ -1,0 +1,10 @@
+# _data/slides.yml
+- name: Comprehensive Logistics Solutions
+  description: Offering end-to-end logistics solutions tailored to your business needs. From warehousing to distribution, we manage it all with efficiency and expertise.
+  image: \assets\images\shipping\control-center-1.png
+- name: Customized Supply Chain Management
+  description: Streamline your supply chain with our customized management services. Leveraging technology and expertise to optimize your operations.
+  image: \assets\images\shipping\customized-shipping-1.png
+- name: Reliable Freight and Transportation Services
+  description: Your trusted partner for all freight and transportation needs. Ensuring timely and safe delivery with our extensive network.
+  image: \assets\images\shipping\security-reliability-1.png

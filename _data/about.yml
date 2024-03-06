@@ -1,0 +1,12 @@
+# _data/about.yml
+- content: Founded on the principles of reliability, efficiency, and excellence, [Your Company Name] has been a leading provider of third-party logistics services for over [X] years. Our team of experts is committed to delivering customized solutions that meet the unique needs of each client, ensuring their success in the competitive global marketplace.
+  bulletPoints:
+    - icon: bi bi-box-seam
+      title: Item 1
+      subtitle: Description 1
+    - icon: bi bi-box2
+      title: Item 2
+      subtitle: Description 2
+    - icon: bi bi-box-seam
+      title: Item 3
+      subtitle: Description 3

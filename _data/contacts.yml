@@ -1,0 +1,7 @@
+# _data/contacts.yml
+- type: Phone
+  data: 000-000-0000
+  icon: bi bi-telephone
+- type: Email
+  data: john.doe@example.com
+  icon: bi bi-envelope
