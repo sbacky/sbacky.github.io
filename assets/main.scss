@@ -3,3 +3,30 @@
 
 @import "color-overrides";
 @import "bootstrap/bootstrap";
+
+
+/* RFS Styles */
+
+.fs-1-fluid {
+    @include font-size(2.5rem);
+}
+
+.fs-2-fluid {
+    @include font-size(2rem);
+}
+
+.fs-3-fluid {
+    @include font-size(1.75rem);
+}
+
+.fs-4-fluid {
+    @include font-size(1.5rem);
+}
+
+.fs-5-fluid {
+    @include font-size(1.25rem);
+}
+
+.fs-6-fluid {
+    @include font-size(1rem);
+}
