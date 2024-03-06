@@ -82,10 +82,10 @@ stylesheet: /assets/main.scss
             </div>
             <div class="col-md-6">
                 {% for item in site.data.about %}
-                <p class="fs-5">{{ item.content }}</p>
+                <p class="fs-5-fluid">{{ item.content }}</p>
                 <ul class="list-group list-group-flush">
                     {% for bullet in item.bulletPoints %}
-                    <li class="list-group-item fs-3 border border-0">
+                    <li class="list-group-item fs-3-fluid border border-0">
                         <div class="row row-cols-auto">
                             <div class="col">
                                 <!-- Icon -->
@@ -94,7 +94,7 @@ stylesheet: /assets/main.scss
                             <div class="col">
                                 <!-- Content -->
                                 <h3>{{ bullet.title }}</h3>
-                                <p class="text-body-secondary fs-5">{{ bullet.subtitle }}</p>
+                                <p class="text-body-secondary fs-5-fluid">{{ bullet.subtitle }}</p>
                             </div>
                         </div>
                     </li>
