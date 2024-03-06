@@ -36,3 +36,8 @@ $navbar-active-color: $primary;
         font-weight: 600;
     }
 };
+
+.tooltip-info {
+    --bs-tooltip-bg: var(--bs-info);
+    --bs-tooltip-color: var(--bs-white);
+};
