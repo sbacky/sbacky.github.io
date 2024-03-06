@@ -80,7 +80,7 @@ jobs:
     steps:
       - name: Report Build Status
         run: |
-            gh api -X POST "repos/$GITHUB_REPOSITORY/pages/telemetry" \
+            bash -c 'gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/telemetry"' \
             # Additional commands or environment variables
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
