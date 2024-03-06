@@ -73,21 +73,9 @@ jobs:
         with:
           path: ./_site
           name: github-pages-artifact
-         
-  report-build-status:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Report Build Status
-        run: |
-            bash -c 'gh api -X POST "repos/sbacky/sbacky.github.io/pages/telemetry"' \
-            # Additional commands or environment variables
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
   deploy:
     runs-on: ubuntu-latest
-    needs: report-build-status
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
