@@ -41,6 +41,7 @@ permalink: pretty
 plugins:
   - jekyll-minima
   - jekyll-feed
+  - jekyll-seo-tag
   - github-pages
 theme: minima
 
