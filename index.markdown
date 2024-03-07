@@ -17,33 +17,17 @@ title: Home
       </div>
       <!-- Slides -->
       <div class="carousel-inner">
-        <div class="carousel-item active">
+        {% for slide in site.data.slides.index %}
+        <div class="carousel-item {% if forloop.first %}active{% endif %}">
           <div class="ratio ratio-16x9">
-            <img src="assets\images\home\00024.jpg" class="img-fluid rounded" alt="Image 1">
+            <img src="{{ slide.image }}" class="img-fluid rounded" alt="{{ slide.name }}">
           </div>
-          <div class="carousel-caption px-5 bg-black opacity-75">
-            <h3 class="fs-1">Aspect Ratio</h3>
-            <p>This image took me far longer to achieve than I would like to admit and its still not exactly what I wanted. To see the original image I was trying to convert from, see my album.</p>
+          <div class="carousel-caption px-5 bg-black opacity-75 fs-4-fluid d-none d-md-block">
+            <h3 class="fs-2-fluid">{{ slide.name }}</h3>
+            <p>{{ slide.description }}</p>
           </div>
         </div>
-        <div class="carousel-item">
-          <div class="ratio ratio-16x9">
-            <img src="assets\images\home\00025.jpg" class="img-fluid rounded" alt="Image 2">
-          </div>
-          <div class="carousel-caption px-5 bg-black opacity-75">
-            <h3 class="fs-1">Audi R8</h3>
-            <p>Simple, I like the car.</p>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="ratio ratio-16x9">
-            <img src="assets\images\home\00026.jpg" class="img-fluid rounded" alt="Image 3">
-          </div>
-          <div class="carousel-caption px-5 bg-black opacity-75">
-            <h3 class="fs-1">Happy Halloween!</h3>
-            <p>PROMPT: breathtaking professionally carved ominous face on a huge pumpkin. pumpkin carving, pumpkin guts, evil, intricate, highly detailed, Halloween, negative space, &lt;lora:sd_xl_offset_example-lora_1.0:0.5&gt;, &lt;lora:add-detail-xl:0.5&gt;</p>
-          </div>
-        </div>
+        {% endfor %}
       </div>
       <!-- Controls -->
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
