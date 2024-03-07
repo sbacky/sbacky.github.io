@@ -6,6 +6,8 @@
 
 
 /* RFS Styles */
+$rfs-base-value: 1.75; // Adjust base font size for RFS
+$rfs-factor: 3; // Adjust scaling factor to control responsiveness
 
 .fs-1-fluid {
     @include font-size(2.5rem);
