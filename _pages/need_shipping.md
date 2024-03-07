@@ -24,7 +24,7 @@ stylesheet: /assets/main.scss
                         <div class="ratio ratio-1x1">
                             <img src="{{ slide.image }}" class="img-fluid rounded mx-auto d-block" alt="{{ slide.name }}">
                         </div>
-                        <div class="carousel-caption fs-4-fluid bg-black opacity-75">
+                        <div class="carousel-caption fs-6-fluid bg-black opacity-75">
                             <h3>{{ slide.name }}</h3>
                             <p>{{ slide.description }}</p>
                         </div>
@@ -82,7 +82,7 @@ stylesheet: /assets/main.scss
             </div>
             <div class="col-md-6">
                 {% for item in site.data.about %}
-                <p class="fs-5-fluid">{{ item.content }}</p>
+                <p class="fs-6-fluid">{{ item.content }}</p>
                 <ul class="list-group list-group-flush">
                     {% for bullet in item.bulletPoints %}
                     <li class="list-group-item fs-3-fluid border border-0">
@@ -116,7 +116,7 @@ stylesheet: /assets/main.scss
                     <img src="\assets\images\shipping\expedited-shipping-2.png" alt="Expedited Shipping" class="card-img opacity-50">
                     <div class="card-img-overlay">
                         <div class="card-text">
-                            <p class="fs-5-fluid">Ready to optimize your logistics operations? Contact us today to discover how our tailored logistics solutions can transform your supply chain. Our team is ready to provide the support and expertise your business needs to thrive.</p>
+                            <p class="fs-6-fluid">Ready to optimize your logistics operations? Contact us today to discover how our tailored logistics solutions can transform your supply chain. Our team is ready to provide the support and expertise your business needs to thrive.</p>
                         </div>
                         <div class="card-text">
                             <ul class="list-group">
@@ -130,7 +130,7 @@ stylesheet: /assets/main.scss
                                         <div class="col">
                                             <!-- Content -->
                                             <h3>{{ contact.type }}</h3>
-                                            <p class="text-body-secondary fs-5-fluid">{{ contact.data }}</p>
+                                            <p class="text-body-secondary fs-6-fluid">{{ contact.data }}</p>
                                         </div>
                                     </div>
                                 </li>
