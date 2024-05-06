@@ -34,7 +34,7 @@ and Project Title with the title of your project. -->
         <div class="col-md-4 mb-4">
             <div class="card">
                 <a class="link-info" href="https://github.com/sbacky/ProcessEngagementLetters.com">
-                    <img src="/assets/images/portfolio/PhotoViewingApp.png" class="card-img-top" alt="ProcessEngagementLetters.com">
+                    <img src="/assets/images/portfolio/ProcessEngagementLetters.png" class="card-img-top" alt="ProcessEngagementLetters.com">
                     <div class="card-body">
                         <h5 class="card-title">ProcessEngagementLetters.com</h5>
                     </div>
@@ -46,7 +46,7 @@ and Project Title with the title of your project. -->
         <div class="col-md-4 mb-4">
             <div class="card">
                 <a class="link-info" href="https://github.com/sbacky/P1_EmployeeReimbursementSystem">
-                    <img src="/assets/images/portfolio/PhotoViewingApp.png" class="card-img-top" alt="EmployeeReimbursementSystem">
+                    <img src="/assets/images/portfolio/EmployeeReimbursementSystem.png" class="card-img-top" alt="EmployeeReimbursementSystem">
                     <div class="card-body">
                         <h5 class="card-title">EmployeeReimbursementSystem</h5>
                     </div>
