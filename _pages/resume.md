@@ -9,7 +9,7 @@ stylesheet: /assets/main.scss
 **Email:** [nhc.crum@outlook.com](mailto:nhc.crum@gmail.com) | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/neil-crum-0317a6199/) | **GitHub:** [GitHub Profile](https://github.com/sbacky/)
 
 ### <u>Summary</u>
-Adaptable and client-focused software developer with a diverse skill set that spans web development, automation, and IT support. Holds a Bachelor's Degree in Interdisciplinary Arts and Sciences, complemented by industry certifications. Over two years of freelance experience successfully managing end-to-end development projects, from client consultation to deployment and ongoing support. Proficient in Django, Java, and multiple front-end technologies, with a proven record of enhancing system performance and user experience. Eager to contribute technical expertise and problem-solving acumen to a dynamic, forward-thinking team.
+Adaptable and client-focused software developer with a diverse skill set that spans web development, automation, and IT support. Holds a Bachelor's Degree in Interdisciplinary Arts and Sciences, complemented by industry certifications. Over two years of freelance experience successfully managing end-to-end development projects, from client consultation to deployment and ongoing support. Proficient in Python, Flask, Django, Java, Javalin, Spring Boot, and multiple front-end technologies, with a proven record of enhancing system performance and user experience. Eager to contribute technical expertise and problem-solving acumen to a dynamic, forward-thinking team.
 
 ### <u>Education</u>
 #### Bachelor of Arts in Interdisciplinary Arts & Sciences
@@ -35,8 +35,8 @@ Adaptable and client-focused software developer with a diverse skill set that sp
 - Progressed through roles, exhibiting exceptional customer service and operational auditing skills to identify process improvements and ensure adherence to operational standards.
 
 ### <u>Skills</u>
-- Programming: Python, Java, HTML, CSS, JavaScript, SQL
-- Tools: Excel, VSCode, Eclipse
+- Programming: Python, Java, HTML, CSS, JavaScript, Typescript, React, PostgreSQL
+- Tools: Excel, VSCode, Eclipse, IntelliJ IDEA, Postman, DBeaver
 - Soft Skills: Multi-tasking, Time Management, Problem Solving
 
 ### <u>Projects</u>
