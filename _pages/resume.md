@@ -40,8 +40,11 @@ Adaptable and client-focused software developer with a diverse skill set that sp
 - Soft Skills: Multi-tasking, Time Management, Problem Solving
 
 ### <u>Projects</u>
-#### Node-Based Tax Preparation Software (Ongoing)
-Designing and developing a web-based, node-driven tax preparation application aimed at individual tax returns. Utilizing Python Flask for the backend and HTML, CSS, and JavaScript for the frontend. Integrated LiteGraph JS for a node-based interface. Implemented dynamic node loading from the backend to the frontend for scalable custom functionality. Established real-time updates through Socket.IO, enhancing the responsiveness of the system. Currently working on refining node execution order and additional features to support more tax forms. Aspiring to attain Modern e-Filing certification from the IRS.
+#### Employee Reimbursement System
+Desinged and developed a full stack Java application with a React front end and a PostgreSQL RDS for an Employee Reimbursement System. This application allows employees to create an account, submit reimbursements, and view and manage their own reimbursements. Managers can do everything an employee can do plus view and manage all reimbursements, resolve a reimbursement by approving or denying it, and view and manage all employees. 
+
+#### Engagement Letter System - (ELS)
+Designed and developed a full stack python Flask application for an Engagement Letter System. This application can rollover engagement letters, check entities on engagement letters and print engagement letters to PDF. In addition, users can configure different settings on the settings page, like adjusting rates, updating partner names, or changing the directory where processed files are saved. This application utilizes Web Sockets to provide real-time feedback to the user through alerts, progress bars or modals.
 
 #### Dehydration Medical Bot
 Engineered a Python-based diagnostic bot that utilizes Psycopg3+ for seamless PostgreSQL integration. Facilitates user-driven dehydration diagnosis through a quick questionnaire and algorithmic evaluation. Enables patient registration and data storage for new patients while offering easy data retrieval for returning patients. Allows the addition of new diagnosis for existing patients and maintains a comprehensive diagnosis history for individual patients.
